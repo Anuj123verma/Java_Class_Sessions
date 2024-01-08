@@ -1,4 +1,4 @@
-public class MyClass {
+public class oddPowers {
     public static void main(String args[]) {
         System.out.println("Power\tResult");
         for(int num=1;num<=29;num++){
